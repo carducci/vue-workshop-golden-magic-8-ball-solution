@@ -1,0 +1,26 @@
+{
+  "responses": [
+    "Ship It!",
+    "It's a feature/not a bug",
+    "Disable tests & build again",
+    "Clean/Build",
+    "No",
+    "Make it serverless",
+    "Add a bitcoin miner",
+    "Microservices",
+    "Angular is dead.",
+    "It worked on my machine",
+    "git reset --hard HEAD",
+    "Go shave a yak",
+    "YAGNI",
+    "Take it offline",
+    "Inflate estimates",
+    "Ask Stackoverflow",
+    "Use Containers",
+    "It's never done that before!",
+    "Schedule a meeting",
+    "Let the customer do QA!",
+    "Let's test in prod!",
+    "Use Jira, it's agile!"
+  ]
+}
